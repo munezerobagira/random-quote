@@ -1,0 +1,302 @@
+[
+  {
+    "author": "Hans Christian Andersen",
+    "quote": "The sun shines upon good and bad alike.",
+    "liked": false,
+    "id": 1
+  },
+  {
+    "author": "Christopher Reeve",
+    "quote": "A hero is an ordinary person doing things in an extra ordinary way.",
+    "liked": false,
+    "id": 2
+  },
+  {
+    "author": "Dale Carnegie",
+    "quote": "Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.",
+    "liked": false,
+    "id": 3
+  },
+  {
+    "author": "Norman Vincent Peale",
+    "quote": "No man is happy who does not think himself so.",
+    "liked": false,
+    "id": 4
+  },
+  {
+    "author": "Sun Tzu",
+    "quote": "Keep your friends close, and your enemies closer.",
+    "liked": false,
+    "id": 5
+  },
+  {
+    "author": "Norman Vincent Peale",
+    "quote": "One never does wrong by doing right.",
+    "liked": false,
+    "id": 6
+  },
+  {
+    "author": "Robert Collier",
+    "quote": "Success is the sum of small efforts, repeated day in and day out.",
+    "liked": false,
+    "id": 7
+  },
+  {
+    "author": "Mahatma Gandhi",
+    "quote": "You don't know who is important to you until you actually lose them.",
+    "liked": false,
+    "id": 8
+  },
+  {
+    "author": "Criss Jami",
+    "quote": "Creative people are often found either disagreeable or intimidating by mediocrities.",
+    "liked": false,
+    "id": 9
+  },
+  {
+    "author": "Epictetus",
+    "quote": "Seek not the good in external things;seek it in yourselves.",
+    "liked": false,
+    "id": 10
+  },
+  {
+    "author": "Carol Burnett",
+    "quote": "Words, once they are printed, have a life of their own.",
+    "liked": false,
+    "id": 11
+  },
+  {
+    "author": "Norman Vincent Peale",
+    "quote": "Throw your heart over the fence and the rest will follow",
+    "liked": false,
+    "id": 12
+  },
+  {
+    "author": "Brian Tracy",
+    "quote": "Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.",
+    "liked": false,
+    "id": 13
+  },
+  {
+    "author": "Osho",
+    "quote": "Be - don't try to become ",
+    "liked": false,
+    "id": 14
+  },
+  {
+    "author": "Carl Jung",
+    "quote": "Thinking is difficult, that's why most people judge.",
+    "liked": false,
+    "id": 15
+  },
+  {
+    "author": "Jim Rohn",
+    "quote": "You cannot change your destination overnight but you can change your direction overnight.",
+    "liked": false,
+    "id": 16
+  },
+  {
+    "author": "Jon Kabat-Zinn",
+    "quote": "If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear.",
+    "liked": false,
+    "id": 17
+  },
+  {
+    "author": "Kenneth Branagh",
+    "quote": "It's very strange that the people you love are often the people you're most cruel to.",
+    "liked": false,
+    "id": 18
+  },
+  {
+    "author": "Ayn Rand",
+    "quote": "An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind.",
+    "liked": false,
+    "id": 19
+  },
+  {
+    "author": "Jim Rohn",
+    "quote": "The few who do are the envy of the many who only watch.",
+    "liked": false,
+    "id": 20
+  },
+  {
+    "author": "Billie Jean King",
+    "quote": "Don't let anyone define you. You define yourself.",
+    "liked": false,
+    "id": 21
+  },
+  {
+    "author": "Albus Dumbledore",
+    "quote": "Numbing the pain for a while will only make it worse when you finally feel it.",
+    "liked": false,
+    "id": 22
+  },
+  {
+    "author": "Bob Marley",
+    "quote": "Love the life you live, live the life you love.",
+    "liked": false,
+    "id": 23
+  },
+  {
+    "author": "Martin Luther King, Jr.",
+    "quote": "There can be no deep disappointment where there is not deep love.",
+    "liked": false,
+    "id": 24
+  },
+  {
+    "author": "Thich Nhat Hanh",
+    "quote": "My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand.",
+    "liked": false,
+    "id": 25
+  },
+  {
+    "author": "Zen Proverb",
+    "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+    "liked": false,
+    "id": 26
+  },
+  {
+    "author": "Kahlil Gibran",
+    "quote": "Generosity is giving more than you can, and pride is taking less than you need.",
+    "liked": false,
+    "id": 27
+  },
+  {
+    "author": "Bruce Lee",
+    "quote": "A wise man can learn more from a foolish question than a fool can learn from a wise answer.  ",
+    "liked": false,
+    "id": 28
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "quote": "To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.",
+    "liked": false,
+    "id": 29
+  },
+  {
+    "author": "Alfred Adler",
+    "quote": "The chief danger in life is that you may take too many precautions.",
+    "liked": false,
+    "id": 30
+  },
+  {
+    "author": "Gilbert Chesterton",
+    "quote": "Art, like morality, consists of drawing the line somewhere.",
+    "liked": false,
+    "id": 31
+  },
+  {
+    "author": "Earl Nightingale",
+    "quote": "Our attitude toward life determines life's attitude towards us.",
+    "liked": false,
+    "id": 32
+  },
+  {
+    "author": "Rosa Nouchette Carey",
+    "quote": "Do it with passion, or not at all.",
+    "liked": false,
+    "id": 33
+  },
+  {
+    "author": "Albus Dumbledore",
+    "quote": "Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.",
+    "liked": false,
+    "id": 34
+  },
+  {
+    "author": "Maya Angelou",
+    "quote": "People will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+    "liked": false,
+    "id": 35
+  },
+  {
+    "author": "Vince Lombardi",
+    "quote": "The only place success comes before work is in the dictionary.",
+    "liked": false,
+    "id": 36
+  },
+  {
+    "author": "A.A. Milne",
+    "quote": "You're braver than you believe, and stronger than you seem, and smarter than you think.",
+    "liked": false,
+    "id": 37
+  },
+  {
+    "author": "D. H. Lawrence",
+    "quote": "Be a good animal, true to your instincts.",
+    "liked": false,
+    "id": 38
+  },
+  {
+    "author": "Roy T. Bennett",
+    "quote": "No amount of regretting can change the past, and no amount of worrying can change the future.",
+    "liked": false,
+    "id": 39
+  },
+  {
+    "author": "Chinese Proverb",
+    "quote": "A crisis is an opportunity riding the dangerous wind.",
+    "liked": false,
+    "id": 40
+  },
+  {
+    "author": "Albus Dumbledore",
+    "quote": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+    "liked": false,
+    "id": 41
+  },
+  {
+    "author": "Christopher Columbus",
+    "quote": "Life has more imagination than we carry in our dreams.",
+    "liked": false,
+    "id": 42
+  },
+  {
+    "author": "Walt Whitman",
+    "quote": "The truth is simple. If it was complicated, everyone would understand it.",
+    "liked": false,
+    "id": 43
+  },
+  {
+    "author": "Josh Waitzkin",
+    "quote": "When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it.",
+    "liked": false,
+    "id": 44
+  },
+  {
+    "author": "Benjamin Mays",
+    "quote": "The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.",
+    "liked": false,
+    "id": 45
+  },
+  {
+    "author": "Marcus Aurelius",
+    "quote": "The best answer to anger is silence.",
+    "liked": false,
+    "id": 46
+  },
+  {
+    "author": "Kahlil Gibran",
+    "quote": "You may forget with whom you laughed, but you will never forget with whom you wept.  ",
+    "liked": false,
+    "id": 47
+  },
+  {
+    "author": "John Wooden",
+    "quote": "Don't give up on your dreams, or your dreams will give up on you.",
+    "liked": false,
+    "id": 48
+  },
+  {
+    "author": "Leo Tolstoy",
+    "quote": "Wrong does not cease to be wrong because the majority share in it.",
+    "liked": false,
+    "id": 49
+  },
+  {
+    "author": "Zen Proverb",
+    "quote": "A good teacher opens the door for you, but you must enter the room by yourself.",
+    "liked": false,
+    "id": 50
+  }
+]

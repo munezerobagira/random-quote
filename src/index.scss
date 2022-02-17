@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.button {
+  @apply p-2 border hover:border-gray-400;
+}
+#quote-box {
+  min-height: 100vh;
+  @apply h-full flex items-center justify-center bg-slate-900 text-gray-100;
+
+  #wrapper {
+    max-width: 400px;
+    @apply p-10 flex items-start justify-center flex-col w-full bg-slate-800;
+    #quote-wrapper {
+      #text {
+        box-sizing: border-box;
+        @apply py-4 px-2 border-l-8 border-l-yellow-300 w-full font-semibold italic text-lg;
+        cursor: pointer;
+      }
+      #author {
+        @apply p-2 pl-4 hover:bg-gray-900 hover:text-gray-50 my-2 w-full;
+        cursor: pointer;
+      }
+    }
+    #button-group {
+      @apply w-full flex flex-row justify-between;
+    }
+  }
+}

@@ -1,25 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
-
+import { useContext } from "react";
+import Loading from "./components/Loading";
+import Main from "./components/Main";
+import { QuotesContext } from "./context";
+import { setRandomQuote, toggleLike } from "./reducers/quotesReducer";
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+  const { quotes, dispatch } = useContext(QuotesContext);
+  const quoteRandomizer = () => {
+    return dispatch(setRandomQuote());
+  };
+  const likeQuote = (id) => {
+    return dispatch(toggleLike(id));
+  };
+  console.log(quotes.randomQuote);
+  if (quotes && quotes.randomQuote)
+    return (
+      <Main
+        {...quotes.randomQuote}
+        setRandomQuote={quoteRandomizer}
+        likeQuote={likeQuote}
+      />
+    );
+  return <Loading />;
 }
 
 export default App;
